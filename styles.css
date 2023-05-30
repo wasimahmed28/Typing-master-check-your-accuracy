@@ -1,5 +1,5 @@
 body {
-  background-color: #27296d;
+  background-color: #101237;
   color: #333333;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -9,8 +9,8 @@ body {
 
 h1 {
   margin-top: 100px;
-  color: #6e5eb3;
-  font-size:70px;
+  color: #9384d6;
+  font-size:80px;
   font-weight: 800;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
@@ -26,7 +26,7 @@ h1 {
 #next-keys {
   font-size: 25px;
   font-weight: bold;
-  color: #f5c7f7;
+  color: #e6ccf6;
 }
 
 #input-box {
@@ -34,9 +34,10 @@ h1 {
   margin-top: 10px;
   padding: 10px;
   border: 2px solid #999999;
+  font-weight: 600;
   border-radius: 5px;
   outline: none;
-  color: #333333;
+  color: #4046aa;
 }
 
 #stats {
